@@ -80,7 +80,7 @@ Laravel & PHP tool to track website visitors and generate analytics dashboards.
 ## 📫 Contact Me
 
 - **Email:** kelvinstony918@yahoo.com  
-- **LinkedIn:** [linkedin.com/in/elvin-stony-70342b176](https://www.linkedin.com/in/kelvin-stony-70342b176/)  
+- **LinkedIn:** [linkedin.com/in/kelvin-stony-70342b176](https://www.linkedin.com/in/kelvin-stony-70342b176/)  
 - **Website/Portfolio:** [wakilimtandao.com](https://wakilimtandao.com)  
 
 ---
